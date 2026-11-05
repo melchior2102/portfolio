@@ -410,10 +410,23 @@ export default function App() {
               exit={{ opacity: 0, height: 0 }}
             >
               {mobileNavigation.map((item) => (
-                <a key={item} href={`#${item.toLowerCase()}`} onClick={() => setIsMenuOpen(false)}>
-                  {item}
-                </a>
-              ))}
+  <a
+    key={item}
+    href={`#${item.toLowerCase()}`}
+    onClick={() => setIsMenuOpen(false)}
+  >
+    {item}
+  </a>
+))}
+
+<a
+  className="nav-cta mobile-nav-cta"
+  href="/mel-resume.pdf"
+  download="mel-resume.pdf"
+  onClick={() => setIsMenuOpen(false)}
+>
+  Download CV <Download size={16} />
+</a>
             </motion.nav>
           )}
         </AnimatePresence>
