@@ -56,10 +56,10 @@ export const experience = [
     desc: 'Participating in Buddhist student community activities at Universitas Gadjah Mada.',
   },
   {
-    org: 'Tzu Chi Activities',
+    org: 'Volunteering Activities',
     role: 'Community Service Volunteer',
     year: 'Ongoing',
-    desc: 'Participated in health-related community activities, oral health checks, disaster assistance, and moral education.',
+    desc: 'Participated in health-related community activities, oral health checks, disaster assistance, moral education, and many others.',
   },
   {
     org: "Dentistry's Basketball Team",
