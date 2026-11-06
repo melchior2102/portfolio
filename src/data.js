@@ -6,7 +6,7 @@ export const identity = {
   university: 'Universitas Gadjah Mada (UGM)',
   location: 'Yogyakarta, Indonesia',
   email: 'melchior.melchior21@gmail.com',
-  linkedin: 'https://id.linkedin.com/in/melchior-alam-sidhi-637790319$0',
+  linkedin: 'https://www.linkedin.com/in/melchior-alam-sidhi-637790319?utm_source=share_via&utm_content=profile&utm_medium=member_ios',
   instagram: 'https://instagram.com/melchiora.s',
   profileImage: '/images/mel-profile.jpeg',
 };
