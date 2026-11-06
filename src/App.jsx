@@ -727,11 +727,11 @@ export default function App() {
                 </a>
                 <a href={identity.linkedin} target="_blank" rel="noreferrer" className="social-link">
                   <span className="social-icon"><Linkedin size={20} /></span>
-                  <span>LinkedIn Profile</span>
+                  <span>Melchior Alam Sidhi</span>
                 </a>
                 <a href={identity.instagram} target="_blank" rel="noreferrer" className="social-link">
                   <span className="social-icon"><Instagram size={20} /></span>
-                  <span>Instagram Profile</span>
+                  <span>@melchiora.s</span>
                 </a>
               </div>
             </div>
